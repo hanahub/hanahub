@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=hanahub)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hanahub)](https://github.com/hanahub)
 
 <img src="http://ghchart.rshah.org/hanahub?rand" alt="hanahub's Github chart" />
 
